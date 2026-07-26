@@ -48,6 +48,7 @@ brew "python"
 brew "ruby"
 brew "rust"
 brew "shellcheck"
+brew "uv"
 
 # media
 brew "ffmpeg"
