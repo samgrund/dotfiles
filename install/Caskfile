@@ -10,3 +10,4 @@ cask "raycast"
 cask "slack"
 cask "visual-studio-code"
 cask "vlc"
+brew install --cask microsoft-office
