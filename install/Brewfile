@@ -60,3 +60,5 @@ brew "webp"
 # misc
 brew "grip"
 brew "mole"
+brew "fastfetch"
+brew "lsd"
